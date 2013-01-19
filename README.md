@@ -8,7 +8,7 @@ Three Facts About Me
 
 *   I was born in China.
 *   I am thin, but I like sports.
-*   I am good at ping-pong, badminton and football.
+*   I am good at ping-pong, badminton and soccer.
 
 ---
 
