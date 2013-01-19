@@ -1,14 +1,14 @@
 This is an example README.md
 
-David Evans / dse4@pitt.edu
+He Han / heh32@pitt.edu
 ==================
 
 Three Facts About Me
 ---
 
-*   I was born in Oakland, just a few blocks from the Cathedral
-*   I have two dogs.
-*   I can't stand when people whistle in public.
+*   I was born in China.
+*   I am thin, but I like sports.
+*   I am good at ping-pong, badminton and football.
 
 ---
 
